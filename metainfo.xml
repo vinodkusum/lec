@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<presentation guid="FFAD4E29-F8D0-4C39-BC1C-853F7A290D32" version="0" availableOffline="1">
+	<info>
+		<title>Temp course</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id52" totalSize="7694111">
+		<file id="id0">data/thmb1.png</file>
+		<file id="id1">data/slide1.js</file>
+		<file id="id2">data/slide1.css</file>
+		<file id="id3">data/thmb2.png</file>
+		<file id="id4">data/scenario1.js</file>
+		<file id="id5">data/scenario1/fnt1.woff</file>
+		<file id="id6">data/scenario1/fnt1b.woff</file>
+		<file id="id7">data/scenario1/fnt1bi.woff</file>
+		<file id="id8">data/scenario1/fnt1i.woff</file>
+		<file id="id9">data/scenario1/html5-unsupported.html</file>
+		<file id="id10">data/scenario1/html5.png</file>
+		<file id="id11">data/scenario1/img0.jpg</file>
+		<file id="id12">data/scenario1/img1.png</file>
+		<file id="id13">data/scenario1/img2.png</file>
+		<file id="id14">data/thmb3.jpg</file>
+		<file id="id15">data/slide3.js</file>
+		<file id="id16">data/slide3.css</file>
+		<file id="id17">data/thmb4.png</file>
+		<file id="id18">data/slide4.js</file>
+		<file id="id19">data/slide4.css</file>
+		<file id="id20">data/sound1.mp3</file>
+		<file id="id21">data/video1.mp4</file>
+		<file id="id22">data/scenarioplayer.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">data/player.js</file>
+		<file id="id29">data/browsersupport.js</file>
+		<file id="id30">data/apple-touch-icon.png</file>
+		<file id="id31">data/favicon.ico</file>
+		<file id="id32">data/fnt0.woff</file>
+		<file id="id33">data/fnt1.woff</file>
+		<file id="id34">data/fnt2.woff</file>
+		<file id="id35">data/fnt3.woff</file>
+		<file id="id36">data/fnt4.woff</file>
+		<file id="id37">data/fnt5.woff</file>
+		<file id="id38">data/fnt6.woff</file>
+		<file id="id39">data/fnt7.woff</file>
+		<file id="id40">data/fnt8.woff</file>
+		<file id="id41">data/fnt9.woff</file>
+		<file id="id42">data/html5-unsupported.html</file>
+		<file id="id43">data/html5.png</file>
+		<file id="id44">data/img0.png</file>
+		<file id="id45">data/img1.png</file>
+		<file id="id46">data/img2.png</file>
+		<file id="id47">data/img3.png</file>
+		<file id="id48">data/img4.png</file>
+		<file id="id49">data/img5.jpg</file>
+		<file id="id50">data/img6.png</file>
+		<file id="id51">data/img7.jpg</file>
+		<file id="id52">data/ismplayer/preview.png</file>
+	</files>
+</presentation>
